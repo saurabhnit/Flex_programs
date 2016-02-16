@@ -1,0 +1,17 @@
+int main()
+{
+int i;
+scanf("%d",&i);
+	for(int i=0;i<10;i++)
+	{
+		printf("%d ",i);
+		while(n--)
+		{
+			cout<<i;
+			cout<<n;
+				hi
+		}
+	}
+scanf("%d",&n);
+return 0;
+}

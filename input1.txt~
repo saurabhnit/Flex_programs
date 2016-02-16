@@ -1,0 +1,14 @@
+int main()               
+{
+for(i=0;i<10;i++)    //
+{
+while(k--) //hello guys this is a comment
+{
+	printf("This is a while 0-9% 00check loop");
+}
+}
+return 0;
+/*giii hu i
+fhghg 
+jbj jbjb jbj b u bu ub j*/
+}
